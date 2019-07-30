@@ -6,29 +6,19 @@ As a data scientist your aim is to predict the customer satisfaction. This datas
 
 The dataset has details of 82790 users with the following 11 features :
 
-Feature	      Description
-
-bra_size	    integer value
-
-category	    In which category clothes belong
-
-cup_size	    size of the cloth
-
-fit	         Target variable (fit/large/small)
-
-height	      Height of the customer
-
-hips	        Size of the hips
-
-item_id	     Id number
-
-length	      Length of the cloth
-
-quality	     Rating given by customer
-
-size	        size of the cloth
-
-userId	      userID
+| Features | Description                        |
+|----------|------------------------------------|
+| bra_size | Integer Value                      |
+| Category | Clothes Category                   |
+| cup_size | Bra Cup Size                       |
+| fit      | Target Variable, Fit/ Small/ Large |
+| height   | Height of the Cloth                |
+| hips     | Size of the hips                   |
+| item_id  | Item ID Number                     |
+| length   | Length of the cloth                |
+| quality  | Rating given by customer           |
+| size     | Size of the cloth                  |
+| userId   | User ID                            |
 
 
 ### Learnings from the project
