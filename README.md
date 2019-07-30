@@ -9,11 +9,14 @@ The dataset has details of 82790 userId with the following 11 features.
 
 ### Learnings from the project
 
- In this project, you will apply the following concepts.
+ In this project, we will apply the following concepts.
 
 EDA
+
 Data preprocessing
+
 Decision tree classifier
+
 Grid search CV
 
 
