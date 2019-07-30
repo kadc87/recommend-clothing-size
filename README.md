@@ -9,15 +9,25 @@ The dataset has details of 82790 users with the following 11 features :
 Feature	      Description
 
 bra_size	    integer value
+
 category	    In which category clothes belong
+
 cup_size	    size of the cloth
+
 fit	         Target variable (fit/large/small)
+
 height	      Height of the customer
+
 hips	        Size of the hips
+
 item_id	     Id number
+
 length	      Length of the cloth
+
 quality	     Rating given by customer
+
 size	        size of the cloth
+
 userId	      userID
 
 
